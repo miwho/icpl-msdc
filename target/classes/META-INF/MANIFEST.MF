@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: icpl-msdc
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: zhangdt
+Implementation-Vendor-Id: com.bos.ibps.icpl
+Build-Jdk: 1.8.0_45
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/icpl-msdc
+Created-By: Maven Integration for Eclipse
+
